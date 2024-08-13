@@ -1,0 +1,49 @@
+.arial{
+      font-family: arial;
+      font-weight: bold;
+      margin: 0;
+ }
+ .arial-ll{
+      margin: 0;
+ }
+ .arial-l{
+      color: red;
+      
+ }
+ p{
+      margin: 5px;
+      font-family: verdana;
+ }
+ .p1{
+      font-weight: bold;
+ }
+ .p2{
+      font-size: 11px;
+      color: gray;
+      padding-bottom: 10px;
+ }
+ .p3{
+      font-size: 13px;
+ }
+ .p4{
+      background-color: rgb(57, 176, 48);
+      color: white;
+      box-shadow: none;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+ }
+ .ap1{
+      font-family: arial;
+      text-align: center;
+ }
+ .ap11{
+      font-size: 12px;
+      text-align: center;
+      
+ }
+ .ap111{
+      font-size: 1p3x;
+      text-align: center;
+      color: blue;
+ }
